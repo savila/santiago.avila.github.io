@@ -46,7 +46,7 @@ Universidad Complutense de Madrid (9/10)
 * **2009-2010 Erasmus** Exchange programme <br>
 University of Nottingham (87/100)
   
-[Page under construnction]
+[Page under construction]
 ====== 
   
 Skills

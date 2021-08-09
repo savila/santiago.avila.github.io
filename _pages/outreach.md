@@ -33,9 +33,9 @@ I have collaborated in several YouTube channels:
 Live events & talks
 ----
 * I had the pleasure to be invited to talk about my research at the [pre-event](http://www.madrimasd.org/notiweb/noticias/fundacion-madrid-fomenta-las-vocaciones-cientificas-traves-su-noche-los-investigadores) of the Madrid's European Researcher's Night. Organisised by Madri+d fundation and MSCA-fellows organisation. It took place at [Madrid'd Planetarium](http://www.planetmad.es/). Madrid June-2021, [recording here](https://www.youtube.com/watch?v=-Q2pu2XJ5S0&t=6s).
-* "Cosmología: Descubriendo el Universo"(http://www.muncyt.es/portal/site/MUNCYT/menuitem.8dbda8254659d9883c791a1801432ea0/?vgnextoid=b3ad51debfba2510VgnVCM1000001d04140aRCRD&lang_choosen=es). Talk at the National Science and Technology Museum (MUNCYT, Madrid, Feb-2016)
+* ["Cosmología: Descubriendo el Universo"](http://www.muncyt.es/portal/site/MUNCYT/menuitem.8dbda8254659d9883c791a1801432ea0/?vgnextoid=b3ad51debfba2510VgnVCM1000001d04140aRCRD&lang_choosen=es). Talk at the National Science and Technology Museum (MUNCYT, Madrid, Feb-2016)
 * Talk at [CEART Museum](https://www.facebook.com/photo/?fbid=10217498997941322&set=ecnf.613997347). Ensenada, Mexico, June-2019.
-* Invited to tak at the "[I Jornadas cientifico divulgativas ciudad de Avila]"(https://www.diariodeavila.es/noticia/ZA8BACF02-998C-B745-3B4E7CFA501463B6/20160524/programacion/cultural/estrenara/ciclo/conferencias/cientificas).
+* Invited to tak at the "[I Jornadas cientifico divulgativas ciudad de Avila](https://www.diariodeavila.es/noticia/ZA8BACF02-998C-B745-3B4E7CFA501463B6/20160524/programacion/cultural/estrenara/ciclo/conferencias/cientificas)".
 * Participated in the [Portsmouth Stargazing](http://www.icg.port.ac.uk/stargazing/) event in 2017 & 2019.
 * Talks in high schools (Madrid 2016, 2020-21): I.E.S. Julio Verne, José García Nieto, Carmen Conde, Colegio Menesiano & Colegio Lourdes.
 

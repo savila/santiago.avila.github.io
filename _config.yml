@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Santiago Ávila"
 title_separator          : "-"
 name                     : &name "Santiago Ávila"
-description              : &description "[Page under construction] Cosmologist unraveling the Large-Scale Structure"
+description              : &description "[Page under construction] \n Cosmologist unraveling the Large-Scale Structure"
 url                      : https://savila.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "savila.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Santiago Ávila"
   avatar           : "profile.png"
-  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure \n 
+  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure of the Universe \n 
 at <a href='https://www.uam.es/FisicaTeorica/Home.htm'>Universidad Atónoma de Madrid</a> \n & <a href='https://www.ift.uam-csic.es/'>Instituto de Física Teórica</a>"
   location         : "Madrid, Spain"
   employer         : 

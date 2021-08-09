@@ -23,7 +23,7 @@ Work
 * **October-2016 to February-2019: Postdoctoral Research Assistant**
   * Institute of Cosmology and Gravitation, University of Portsmouth, UK
 
-* **October 2012 to July 2016: Predoctoral Researcher**
+* **October 2012 to July 2016: FPI-UAM Predoctoral Researcher fellow**
   * Universidad Autónoma de Madrid, Spain  
   * Instituto de Física Teórica (UAM-CSIC)
 

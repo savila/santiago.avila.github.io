@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Work 
+Postions 
 ======
 * **June-2021 to now: Postdoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain
@@ -38,13 +38,13 @@ Supervisors: Alexander Knebe, Juan García-Bellido
 University of Western Australia
 
 * **2011-2012 Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
-Université Paris Diderot
+Université Paris Diderot (rank #1)
 
 * **2006-2011 Licenciatura en Física** <br>
-Universidad Complutense de Madrid
+Universidad Complutense de Madrid (9/10)
 
 * **2009-2010 Erasmus** Exchange programme <br>
-University of Nottingham
+University of Nottingham (87/100)
   
 [Page under construnction]
 ====== 

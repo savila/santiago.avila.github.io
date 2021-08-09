@@ -51,8 +51,21 @@ University of Nottingham (87/100)
   
 Funding
 ======
-* 
+* MSCA
+* JdlC
+* FPI
+* FPU
 
+Refereeing and Panelist
+======
+* Journal Referee
+  * MNRAS
+  * A&A
+* PhD Panels
+  * Ruben Arjona: UAM Sep-2021
+  * Martín Rodríguez Monroy: UCM Nov-2021 
+
+<!--
 Publication summary
 ======
   <ul>{% for post in site.publications %}
@@ -65,12 +78,5 @@ Talk summary
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-  
-Refereeing and Panelist
-======
-* Jounral Referee
-  * MNRAS
-  * A&A
-* PhD Panels
-  * Ruben Arjona: UAM Sep-2021
-  * Martín Rodríguez Monroy: UCM Nov-2021 
+  -->
+

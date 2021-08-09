@@ -12,25 +12,30 @@ redirect_from:
 
 Work 
 ======
-* June-2021 to now: Postdoctoral Researcher
+* **June-2021 to now: Postdoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain
   * Instituto de Física Teórica (UAM-CSIC)
 
-* March-2019 to May-2021: Postdoctoral Intertalentum MSCA fellow
+* **March-2019 to May-2021: Postdoctoral Intertalentum MSCA fellow**
   * Universidad Autónoma de Madrid, Spain
   * Instituto de Física Teórica (UAM-CSIC)
   
-* October-2016 to February-2019: Postdoctoral Research Assistant
+* **October-2016 to February-2019: Postdoctoral Research Assistant**
   * Institute of Cosmology and Gravitation, University of Portsmouth, UK
 
-* October 2012 to July 2016: Predoctoral Researcher
+* **October 2012 to July 2016: Predoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain  
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D in Theoretical Physics** <br>
+[<i> Large Scale Structure: from simulations to observations</i>](https://repositorio.uam.es/handle/10486/674730) <br>
+Honours (Cum Laude), International Doctorate <br>
+Supervisors: Alexander Knebe, Juan García-Bellido
+
+* **Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
+16.4/20
+
   
 Skills
 ======

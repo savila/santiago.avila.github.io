@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 [ Page Under Construction ]
-======
+----
 
 I am a postdoctoral researcher working at the Department of Theoretical Physics of the Universidad Autónoma de Madrid (UAM) and the Institute of Theoretical Physics (IFT UAM-CSIC). I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and cosmological simulations. I study and model how galaxies distribute in space and what information we can extract from galaxy surveys in order to better understand our Universe. 
 
 Research 
 ======
+
+Here I outline the fields and subfields my research touches on. Go to [Research](https://savila.github.io/research/) for further details. 
 
 Key words:
 ------ 
@@ -66,4 +68,4 @@ This is the list of collaborations in which I have been actively involved:
 
 
 
-If you are a student who would like to start a project (BSc, MSc, PhD, TFM, TFG, ...) on these topics, please, get in touch. 
+If you are a student who would like to start a project (BSc, MSc, PhD, TFM, TFG, ...) on these topics, please, contact me. 

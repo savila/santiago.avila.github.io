@@ -11,7 +11,7 @@ redirect_from:
 
 
 Positions 
-======
+----
 * **June-2021 to now: Postdoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain
   * Instituto de Física Teórica (UAM-CSIC)
@@ -28,7 +28,7 @@ Positions
   * Instituto de Física Teórica (UAM-CSIC)
 
 Education
-======
+-----
 * **2012-2016 Ph.D in Theoretical Physics** <br>
 [<i> Large Scale Structure: from simulations to observations</i>](https://repositorio.uam.es/handle/10486/674730) <br>
 Honours (Cum Laude), International Doctorate <br>
@@ -47,17 +47,18 @@ Universidad Complutense de Madrid (9/10)
 University of Nottingham (87/100)
   
 [Page under construction]
-====== 
+-----
+
   
 Funding
-======
+-----
 * MSCA
 * JdlC
 * FPI
 * FPU
 
 Refereeing and Panelist
-======
+-----
 * Journal Referee
   * MNRAS
   * A&A

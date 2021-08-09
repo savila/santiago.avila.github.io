@@ -49,33 +49,28 @@ University of Nottingham (87/100)
 [Page under construction]
 ====== 
   
-Skills
+Funding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
 
-Publications
+Publication summary
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talk summary
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Refereeing and Panelist
 ======
-* Currently signed in to 43 different slack teams
+* Jounral Referee
+  * MNRAS
+  * A&A
+* PhD Panels
+  * Ruben Arjona: UAM Sep-2021
+  * Martín Rodríguez Monroy: UCM Nov-2021 

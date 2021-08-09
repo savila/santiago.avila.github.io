@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+You can find the full list of publications in the <u><a href=" https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=pubdate%3A%5B2012-01%20TO%209999-12%5D%20author%3A(%22Avila%2C%20Santiago%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0">  ADS website. </a>.</u>
+
+Here, I help you navigate throught them: 
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}

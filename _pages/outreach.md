@@ -51,8 +51,8 @@ Media
 
 Others
 ----
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Participated in the translation to Spanish of the DES website and oficial DES-Y3 press note: [https://www.darkenergysurvey.org/es](https://www.darkenergysurvey.org/es)
+ * Managed Euclid-UK twitter during the Bonn meeting (2018).
+
   
 

@@ -11,11 +11,11 @@ redirect_from:
 
 Articles
 ======
-* "[El mayor mapa tridimensional del universo](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/la-espintrnica-imita-al-cerebro-819/el-mayor-mapa-tridimensional-del-universo-19346)" Font-Ribera, Gil-Marín & Ávila, 2021
+* "[El mayor mapa tridimensional del universo](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/la-espintrnica-imita-al-cerebro-819/el-mayor-mapa-tridimensional-del-universo-19346)" Font-Ribera, Gil-Marín & Ávila, 2021 \n
 Investigación y Ciencia magazine (Spanish edition of Scientific American)
-* "[En busca del planeta nueve](https://fronterasdelaciencia.com/en-busca-del-planeta-nueve/)", Ávila 2018
+* "[En busca del planeta nueve](https://fronterasdelaciencia.com/en-busca-del-planeta-nueve/)", Ávila 2018 \n
 Fronteras de la Ciencia magazine
-* "[El mayor mapa espacio – temporal del Universo](http://www.madrimasd.org/blogs/fisicateorica/2020/07/20/771/)", Ávila 2020
+* "[El mayor mapa espacio – temporal del Universo](http://www.madrimasd.org/blogs/fisicateorica/2020/07/20/771/)", Ávila 2020 \n
 Madri+d blog (oficial blog of the research department of Madrid's regional government), selected as blog of the day.
 
 YouTube

@@ -9,23 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+
+Work 
+======
+* June-2021 to now: Postdoctoral Researcher
+  * Universidad Autónoma de Madrid, Spain
+  * Instituto de Física Teórica (UAM-CSIC)
+
+* March-2019 to May-2021: Postdoctoral Intertalentum MSCA fellow
+  * Universidad Autónoma de Madrid, Spain
+  * Instituto de Física Teórica (UAM-CSIC)
+  
+* October-2016 to February-2019: Postdoctoral Research Assistant
+  * Institute of Cosmology and Gravitation, University of Portsmouth, UK
+
+* October 2012 to July 2016: Predoctoral Researcher
+  * Universidad Autónoma de Madrid, Spain  
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======

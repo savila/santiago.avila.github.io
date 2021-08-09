@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Postions 
+Positions 
 ======
 * **June-2021 to now: Postdoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain

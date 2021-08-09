@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[ Page Under Construction ]
-----
 
 I am a postdoctoral researcher working at the Department of Theoretical Physics of the Universidad Autónoma de Madrid (UAM) and the Institute of Theoretical Physics (IFT UAM-CSIC). I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and cosmological simulations. I study and model how galaxies distribute in space and what information we can extract from galaxy surveys in order to better understand our Universe. 
 
@@ -66,6 +64,9 @@ This is the list of collaborations in which I have been actively involved:
 - [UNIT simulations (UNITsims)](http://www.unitsims.org/)
 
 
-
+<br>
+_______________________________________________________________________
+<br>
+<br>
 
 If you are a student who would like to start a project (BSc, MSc, PhD, TFM, TFG, ...) on these topics, please, contact me. 

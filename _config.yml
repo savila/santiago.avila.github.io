@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Santiago Avila"
   avatar           : "profile.png"
-  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure \n at <a href='https://www.uam.es/FisicaTeorica/Home.htm'>Universidad Autónoma de Madrid</a>"
-  location         : "Madrid, Spain"
-  employer         : "<a href='https://www.uam.es/FisicaTeorica/Home.htm'>Universidad Atónoma de Madrid</a> \n & <a href='https://www.ift.uam-csic.es/'>Instituto de Física Teórica</a>"
+  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure \n 
+at <a href='https://www.uam.es/FisicaTeorica/Home.htm'>Universidad Atónoma de Madrid</a> \n & <a href='https://www.ift.uam-csic.es/'>Instituto de Física Teórica</a>"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "santiago.avila@uam.es"

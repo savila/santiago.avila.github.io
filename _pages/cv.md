@@ -38,9 +38,9 @@ Supervisors: Alexander Knebe, Juan García-Bellido
 University of Western Australia
 
 * **2011-2012 Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
-Université Paris Diderot (rank #1)
+Université Paris Diderot (1st)
 
-* **2006-2011 Licenciatura en Física** <br>
+* **2006-2011 <i> Licenciatura en Física</i>** <br>
 Universidad Complutense de Madrid (9/10)
 
 * **2009-2010 Erasmus** Exchange programme <br>

@@ -25,17 +25,29 @@ Work
 
 * **October 2012 to July 2016: Predoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain  
+  * Instituto de Física Teórica (UAM-CSIC)
 
 Education
 ======
-* **Ph.D in Theoretical Physics** <br>
+* **2012-2016 Ph.D in Theoretical Physics** <br>
 [<i> Large Scale Structure: from simulations to observations</i>](https://repositorio.uam.es/handle/10486/674730) <br>
 Honours (Cum Laude), International Doctorate <br>
 Supervisors: Alexander Knebe, Juan García-Bellido
 
-* **Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
-16.4/20
+* **Jan-Apr 2014 & Feb-May 2015: pre-doctoral research stay**
+University of Western Australia
 
+* **2011-2012 Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
+Université Paris Diderot
+
+* **2006-2011 Licenciatura en Física** <br>
+Universidad Complutense de Madrid
+
+* **2009-2010 Erasmus** Exchange programme <br>
+University of Nottingham
+  
+[Page under construnction]
+====== 
   
 Skills
 ======

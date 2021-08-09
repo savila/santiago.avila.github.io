@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-fall-teaching-1
 venue: "Universidad Autínoma de Madrid"
-date: 2014-15
+date: 2014-10
 location: "Madrid, Spain"
 ---
 

@@ -11,12 +11,23 @@ redirect_from:
 <br>
 <br>
 
+Teaching
+----
+
+* Advanced Cosmology: Module on Large-Scale Structure. <br> Universidad Autónoma de Madrid
+  * 12h in 2019-20
+  * 12h in 2020-21
+  * Lectures slides
+* Mathematical Methods: Ordinary Differential Equations exercises. <br> Universidad Autónoma de Madrid
+  * 30h in 2014-15
+  * 30h in 2015-16
+
 PhD Supervision
 -----
 *  Oct-2017 to Mar-2021: Supervision of the **PhD of Mike S. Wang** <br>
 <i> Theoretical Considerations in Large-Scale Structure Analsysis </i>. <br>
 University of Portsmouth
-* Mar-2019 to (exp.) Mar-2023: Supervision of the **PhD of Walter Riquelme's PhD** <br>
+* Mar-2019 to (exp.) Mar-2023: Supervision of the **PhD of Walter Riquelme** <br>
 <i> Primordial Non-Gaussianities with the Dark Energy Survey </i>. <br>
 Universidad Autónoma de Madrid
 * Nov-2019 to (exp.) Nov-2023: Supervision of the **PhD of Guillermo Reyes** <br>
@@ -39,11 +50,7 @@ Universidad Autónoma de Madrid
 Undergraduate Supervision
 -----
 
-Teaching
-----
+* Summer 2018: Supervision of SEPNet summer Placement: George Thomas. University of Portsmouth. 
+* Summer 2017: Supervision of SEPNet summer Placement: Tom Divers. University of Portsmouth. 
 
-I have collaborated in several YouTube channels:
 
-* IFT: "[¿A qué ritmo se expande realmente el Universo?](https://www.youtube.com/watch?v=11-T2Jw-ej4)" (December-2020)
-* UAM's observatory: "[Ecos del Big Bang](https://www.youtube.com/watch?v=GH0OYjU7FnQ)" (April-2020)
-* I often collaborate in

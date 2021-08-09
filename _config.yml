@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Santiago Avila"
+title                    : "Santiago Ávila"
 title_separator          : "-"
-name                     : &name "Santiago Avila"
+name                     : &name "Santiago Ávila"
 description              : &description "[Page under construction] Cosmologist unraveling the Large-Scale Structure"
 url                      : https://savila.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "santiago.avila.github.io"
+repository               : "savila.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Santiago Avila"
+  name             : "Santiago Ávila"
   avatar           : "profile.png"
   bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure \n 
 at <a href='https://www.uam.es/FisicaTeorica/Home.htm'>Universidad Atónoma de Madrid</a> \n & <a href='https://www.ift.uam-csic.es/'>Instituto de Física Teórica</a>"
+  location         : "Madrid, Spain"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

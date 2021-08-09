@@ -34,7 +34,7 @@ Education
 Honours (Cum Laude), International Doctorate <br>
 Supervisors: Alexander Knebe, Juan García-Bellido
 
-* **Jan-Apr 2014 & Feb-May 2015: pre-doctoral research stay**
+* **Jan-Apr 2014 & Feb-May 2015: pre-doctoral research stay** <br>
 University of Western Australia
 
 * **2011-2012 Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>

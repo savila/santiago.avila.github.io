@@ -17,7 +17,6 @@ Teaching
 * Advanced Cosmology: Module on Large-Scale Structure. <br> Universidad Autónoma de Madrid
   * 12h in 2019-20
   * 12h in 2020-21
-  * Lectures slides
 * Mathematical Methods: Ordinary Differential Equations exercises. <br> Universidad Autónoma de Madrid
   * 30h in 2014-15
   * 30h in 2015-16

@@ -11,12 +11,13 @@ redirect_from:
 [ Page Under Construction ]
 ======
 
-I am a postdoctoral researcher working at the Department of Theoretical Physics of the Universidad Autónoma de Madrid (UAM) and the Institute of Theoretical Physics (IFT UAM-CSIC). I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and the cosmological simulations. I study and model how the galaxies distribute in space and what information can we extract from galaxy surveys in order to better understand our Universe. 
+I am a postdoctoral researcher working at the Department of Theoretical Physics of the Universidad Autónoma de Madrid (UAM) and the Institute of Theoretical Physics (IFT UAM-CSIC). I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and cosmological simulations. I study and model how galaxies distribute in space and what information we can extract from galaxy surveys in order to better understand our Universe. 
 
 Research 
 ======
 
-Key words for my field of research: 
+Key words:
+------ 
 
 - Large-Scale Structure
 - Cosmological Simulations
@@ -28,7 +29,8 @@ Key words for my field of research:
 - Inflation
 
 
-My main interests focus on:
+Main interests/expertise:
+------
 
 - Galaxy Clustering
 - Baryonic Accoustic Oscillations 
@@ -38,7 +40,8 @@ My main interests focus on:
 - The galaxy - dark matter connection
 - HI Instensity Mapping
 
-Other Interests: 
+Other Interests:
+------ 
 
 - Redshift Space Distortions
 - Semi-Analytical Models of Galaxy formation
@@ -50,29 +53,17 @@ Other Interests:
 International Collaborations
 ======
 
-- Dark Energy Survey
-- eBOSS / SDSS-IV
-- Euclid
-- Square Kilometer Array
-- Dark Energy Survey
-- UNIT simulations
+Current challenges in cosmology require the coherent effort of the entire community to be addressed. That is why a large portion of nowadays ground-breaking research is performed within large international collaborations, often with hundres of scientist involved. 
+This is the list of collaborations in which I have been actively involved:
 
-Sibtitle 1
-------
-main
+- Dark Energy Survey (DES, https://www.darkenergysurvey.org/)
+- extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV (https://www.sdss.org/)
+- Euclid (https://sci.esa.int/web/euclid)
+- Square Kilometer Array (SKA, https://www.skatelescope.org/)
+- Dark Energy Spectroscopic Instrument (DESI, https://www.desi.lbl.gov/)
+- UNIT simulations (UNITsims, http://www.unitsims.org/)
 
-Subtitle 2
-------
-more
 
-**More**
 
-even more.
 
-Another subtitle
-------
-Many people use a git client t
-
-For more info
-------
-
+If you are a student who would like to start a project (BSc, MSc, PhD, TFM, TFG, ...) on these topics, please, get in touch. 

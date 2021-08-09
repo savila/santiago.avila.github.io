@@ -58,12 +58,12 @@ International Collaborations
 Current challenges in cosmology require the coherent effort of the entire community to be addressed. That is why a large portion of nowadays ground-breaking research is performed within large international collaborations, often with hundres of scientist involved. 
 This is the list of collaborations in which I have been actively involved:
 
-- Dark Energy Survey (DES, https://www.darkenergysurvey.org/)
-- extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV (https://www.sdss.org/)
-- Euclid (https://sci.esa.int/web/euclid)
-- Square Kilometer Array (SKA, https://www.skatelescope.org/)
-- Dark Energy Spectroscopic Instrument (DESI, https://www.desi.lbl.gov/)
-- UNIT simulations (UNITsims, http://www.unitsims.org/)
+- [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/)
+- [extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV](https://www.sdss.org/)
+- [Euclid](https://sci.esa.int/web/euclid)
+- [Square Kilometer Array (SKA)](https://www.skatelescope.org/)
+- [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/)
+- [UNIT simulations (UNITsims)](http://www.unitsims.org/)
 
 
 

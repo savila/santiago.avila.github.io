@@ -1,7 +1,7 @@
 ---
 title: "The effect of the galaxy-halo connection on galaxy clustering in the advent of stage-IV experiments"
 collection: LIneA webinars
-type: "Webinar"
+type: "Talk"
 permalink: /talks/2021-LIneA-talk
 venue: "Labóratorio Interinstitucional de e-Astronomia (LIneA)"
 date: 2021-04-08

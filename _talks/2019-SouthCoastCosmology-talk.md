@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019-SouthCoastCosmology-talk.md
 venue: "South Coast Cosmology"
-date: 2021-07-06
+date: 2019-01-16
 location: "Portmouth, Uk"
 ---
 

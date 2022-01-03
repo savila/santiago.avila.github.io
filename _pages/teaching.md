@@ -45,6 +45,10 @@ Universidad Autónoma de Madrid + CSIC
 <i> Simulations with Primordial Non-Gaussianities</i>. <br>
 Universidad Autónoma de Madrid
 
+* Oct-2021 to Sep-2022: Supervision of the **MSc thesis of Iago Sánchez Crotón** <br>
+<i> Forecast for measuring Redshift Space Distortions with DES</i>. <br>
+Universidad Autónoma de Madrid
+
 Undergraduate Supervision
 -----
 

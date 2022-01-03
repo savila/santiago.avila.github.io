@@ -47,7 +47,7 @@ Media
 * [Press Note on MUNCYT talk series](http://www.muncyt.es/stfls/MUNCYT/Comun/Notas_Prensa/NdP_CIENCIA_EN_PRIMERA_PERSONA_.pdf)
 * Participated in SER-Ávila radio, talking about the event "I Jornadas cientifico divulgativas ciudad de Avila". Ávila-2016
 * Interviewed in el Diario de Teruel about conference "Understanding Emission-Line Galaxies". Teruel-2018
-* Interviewed about la Caixa felowships (emmitted in "La 2" Natinal TV). Barcelona-2012
+* Interviewed about la Caixa felowships (emmitted in "La 2" National TV). Barcelona-2012
 
 Others
 ----

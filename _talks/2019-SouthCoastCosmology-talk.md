@@ -1,4 +1,3 @@
-
 ---
 title: "BAO with the Dark Energy Survey"
 collection: talks
@@ -10,4 +9,3 @@ location: "Portmouth, Uk"
 ---
 
 [Conference site](https://www.icg.port.ac.uk/2018/11/south-coast-cosmology-icg/)
-

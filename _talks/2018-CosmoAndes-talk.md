@@ -1,7 +1,7 @@
 ---
 title: "Dark Energy Survey First Year results: Baryonic Acoustic Oscillations"
 collection: talks
-type: "Talk"
+type: "Conference Plenary Talk"
 permalink: /talks/2018-CosmoAndes-talk.md
 venue: "CosmoAndes"
 date: 2018-01-17

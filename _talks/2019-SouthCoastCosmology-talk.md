@@ -1,7 +1,7 @@
 ---
 title: "BAO with the Dark Energy Survey"
 collection: talks
-type: "Talk"
+type: "Conference Talk"
 permalink: /talks/2019-SouthCoastCosmology-talk.md
 venue: "South Coast Cosmology"
 date: 2019-01-16

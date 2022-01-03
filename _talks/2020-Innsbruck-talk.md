@@ -1,10 +1,10 @@
 ---
 title: "The Halo Occupation Distribution of Emission Line Galaxies with eBOSS"
 collection: Rencontres de Moriond
-type: "Invited Talk"
-permalink: /talks/2020-Innsbrucl-talk.md
-venue: "Rencontres de Moriond - Cosmology"
-date: 2020-03-27
+type: "Invited conference talk"
+permalink: /talks/2020-Innsbruck-talk.md
+venue: "Mock Innsbruck Workshops"
+date: 2020-03-11
 location: "Innsbruck, Austria"
 ---
 

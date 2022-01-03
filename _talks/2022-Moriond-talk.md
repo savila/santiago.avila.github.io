@@ -1,7 +1,7 @@
 ---
 title: "BAO with the HI intensity mapping: observational effects on the 2-point correlation function"
 collection: Rencontres de Moriond
-type: "Talk"
+type: "Conference Talk"
 permalink: /talks/2022-Moriond-talk.md
 venue: "Rencontres de Moriond - Cosmology"
 date: 2022-01-27

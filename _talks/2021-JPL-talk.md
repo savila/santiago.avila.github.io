@@ -1,9 +1,9 @@
 ---
 title: "Towards stage-IV LSS: galaxy-halo connection and BAO with Intensity mapping"
 collection: Seminar
-type: "Talk"
+type: "Webinar"
 permalink: /talks/2021-JPL-talk.md
-venue: "Rencontres de Moriond - Cosmology"
+venue: "JPL Dark Sector Seminar"
 date: 2021-09-30
 location: "Jet Propulsion Laboratory - NASA, CA, US (online)"
 ---

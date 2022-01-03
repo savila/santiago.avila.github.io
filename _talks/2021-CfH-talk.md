@@ -1,7 +1,7 @@
 ---
 title: "The Effect of the Galaxy-Halo Connection on Galaxy Clustering in the Advent of Stage-IV Experiments"
 collection: talks
-type: "Talk"
+type: "Conference Talk"
 permalink: /talks/2021-CfH-talk
 venue: "Cosmology from Home 2021"
 date: 2021-07-06

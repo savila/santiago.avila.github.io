@@ -12,7 +12,10 @@ redirect_from:
 
 Positions 
 ----
-* **June-2021 to now: Postdoctoral Researcher**
+* **October-2022 to now: Postdoctoral Researcher**
+  * Institut de Física de 'Altes Energies.
+
+* **June-2021 to September-2022: Postdoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain
   * Instituto de Física Teórica (UAM-CSIC)
 

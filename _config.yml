@@ -86,12 +86,12 @@ author:
 at <a href='https://www.uam.es/FisicaTeorica/Home.htm'>Universidad Atónoma de Madrid</a> \n & <a href='https://www.ift.uam-csic.es/'>Instituto de Física Teórica</a>"
   %location         : "Madrid, Spain"
   bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure of the Universe \n 
-at <a href='https://www.ifae.es/'>Institut de Física d'Altes Energies</a> \n 
+at <a href='https://www.ifae.es/'>Institut de Física d'Altes Energies</a>  
   location         : "Barcelona, Spain"
   employer         : IFAE
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "santiago.avila@uam.es"
+  email            : "savila@ifae.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

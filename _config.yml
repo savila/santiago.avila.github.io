@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Santiago Avila"
   avatar           : "profile.png"
-  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure of the Universe at"
+  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure of the Universe at <a href='https://www.ifae.es/'>Institut de Física d'Altes Energies</a>"
   location         : "Barcelona, Spain"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  arxiv           : "https://arxiv.org/search/?searchtype=author&query=Avila%2C+S"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :  "savila@ifae.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ColmoCosmos"
   vine             :
   weibo            :
   xing             :

@@ -32,7 +32,7 @@ Positions
   * Visitorship to University of Western Australia: Jan-Mar 2014 & Feb-Apr 2015
 
 * **September 2011 to June 2012: La Caixa postgraduate fellow**
-  *   
+  * Université Paris Diderot
 
 Education
 -----
@@ -46,7 +46,7 @@ University of Western Australia. Sup.: Chris Power.
 
 * **2011-2012 Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
 Université Paris Diderot (1st)
-  * MSc on Cosmic Inflation, supervised by Danièle Steer. 
+  * MSc on Cosmic Inflation, supervised by Danièle Steer (APC). 
 
 * **2006-2011 <i> Licenciatura en Física</i>** <br>
 Universidad Complutense de Madrid (9/10)

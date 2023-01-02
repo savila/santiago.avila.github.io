@@ -4,19 +4,16 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-#  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure of the Universe \n 
-#at <a href='https://www.uam.es/FisicaTeorica/Home.htm'>Universidad Atónoma de Madrid</a> \n & <a href='https://www.ift.uam-csic.es/'>Instituto de Física Teórica</a>"
-#  location         : "Madrid, Spain"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Santiago Avila"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Santiago Ávila"
-description              : &description "[Page under construction] \n Cosmologist unraveling the Large-Scale Structure"
-url                      : https://savila.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "savila.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -60,11 +57,11 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &ColmoCosmos
-#facebook:
-#  username               :
-#  app_id                 :
-#  publisher              :
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -83,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Santiago Avila"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "[page under construction]  \n Cosmologist unraveling the Large-Scale Structure of the Universe at <a href='https://www.ifae.es/'>Institut de Física d'Altes Energies</a>  
-  location         : "Barcelona, Spain"
-  employer         : "IFAE"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "savila@ifae.es"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,26 +96,27 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "savila"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-5043-3662"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ColmoCosmos"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  
+
+
 # Reading Files
 include:
   - .htaccess

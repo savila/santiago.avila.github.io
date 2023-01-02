@@ -46,7 +46,7 @@ University of Western Australia. Sup.: Chris Power.
 
 * **2011-2012 Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
 Université Paris Diderot (1st)
-  * MSc on Cosmic Inflation, supervised by Danièle Steer (APC). 
+  * MSc final project on [<i> Cosmic Inflation</i>](https://ui.adsabs.harvard.edu/abs/2014JCAP...08..032A/abstract), supervised by Danièle Steer (APC). 
 
 * **2006-2011 <i> Licenciatura en Física</i>** <br>
 Universidad Complutense de Madrid (9/10)

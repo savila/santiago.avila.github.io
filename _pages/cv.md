@@ -13,7 +13,7 @@ redirect_from:
 Positions 
 ----
 * **October-2022 to now: Postdoctoral Researcher**
-  * Institut de Física de 'Altes Energies.
+  * Institut de Física d'Altes Energies.
 
 * **June-2021 to September-2022: Postdoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain

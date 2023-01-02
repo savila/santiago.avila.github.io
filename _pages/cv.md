@@ -29,6 +29,10 @@ Positions
 * **October 2012 to July 2016: FPI-UAM Predoctoral Researcher fellow**
   * Universidad Autónoma de Madrid, Spain  
   * Instituto de Física Teórica (UAM-CSIC)
+  * Visitorship to University of Western Australia: Jan-Mar 2014 & Feb-Apr 2015
+
+* **September 2011 to June 2012: La Caixa postgraduate fellow**
+  *   
 
 Education
 -----
@@ -38,16 +42,19 @@ Honours (Cum Laude), International Doctorate <br>
 Supervisors: Alexander Knebe, Juan García-Bellido
 
 * **Jan-Apr 2014 & Feb-May 2015: pre-doctoral research stay** <br>
-University of Western Australia
+University of Western Australia. Sup.: Chris Power.
 
 * **2011-2012 Master NPAC**: Nuclei, Particles, Astroparticles & Cosmology <br>
 Université Paris Diderot (1st)
+  * MSc on Cosmic Inflation, supervised by Danièle Steer. 
 
 * **2006-2011 <i> Licenciatura en Física</i>** <br>
 Universidad Complutense de Madrid (9/10)
+  * BSc project supervised by Antonio Lopez Maroto
 
 * **2009-2010 Erasmus** Exchange programme <br>
 University of Nottingham (87/100)
+  * BSc project supervised by Ed Copeland
   
 [Page under construction]
 -----

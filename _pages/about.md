@@ -59,7 +59,7 @@ This is the list of collaborations in which I have been actively involved:
 - [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/)
 I am currently one of the two conveners of the Large Scale Structure (LSS) Science Working Group (SWG), in charge of Galaxy Clustering (GC), while we analyse the final dataset (Year-6 or Y6). The LSS-SWG is in charge of the whole BAO Key Project (KP), of providing the GC products for the 3x2pt KP analysis (i.e. the GC for combination with lensing) and of other science projects related to GC such us the study of Primordial Non-Gaussianitties.
 
-- [extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV](https://www.sdss.org/)
+- [extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV](https://www.sdss4.org/surveys/eboss/)
 I performed the Halo Occupation Distribution analysis for Emission Line Galaxies and I was involve in the ELG and general cosmology analsysis. I was also involved in the eBOSSxGBT analysis.  
 
 - [Euclid](https://sci.esa.int/web/euclid).

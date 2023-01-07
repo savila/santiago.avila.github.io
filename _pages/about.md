@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral researcher working at the Department of Theoretical Physics of the Universidad Autónoma de Madrid (UAM) and the Institute of Theoretical Physics (IFT UAM-CSIC). I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and cosmological simulations. I study and model how galaxies distribute in space and what information we can extract from galaxy surveys in order to better understand our Universe. Appart from research, I also [teach](https://savila.github.io/teaching/) and do [outreach](https://savila.github.io/outreach/). 
+I am a postdoctoral researcher working at the Institut de Física d'Altes Energies (IFAE), located at the UAB campus, near Barcelona. I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and cosmological simulations. I study and model how galaxies distribute in space and what information we can extract from galaxy surveys in order to better understand our Universe. Appart from research, I also [teach](https://savila.github.io/teaching/) and do [outreach](https://savila.github.io/outreach/). 
 
 Research 
 ======
@@ -33,10 +33,10 @@ Main interests/expertise:
 ------
 
 - Galaxy Clustering
-- Baryonic Accoustic Oscillations 
+- Baryonic Accoustic Oscillations (BAO)
 - N-Body Simulations
 - Fast cosmological simulations
-- Primordial Non-Gaussianities
+- Primordial Non-Gaussianities (PNG)
 - The galaxy - dark matter connection
 - HI Instensity Mapping
 
@@ -53,16 +53,27 @@ Other Interests:
 International Collaborations
 ======
 
-Current challenges in cosmology require the coherent effort of the entire community to be addressed. That is why a large portion of nowadays ground-breaking research is performed within large international collaborations, often with hundres of scientist involved. 
+Current challenges in cosmology require the coherent effort of the entire community to be addressed. That is why a large portion of nowadays ground-breaking research is performed within large international collaborations, often with hundreds of scientist involved. 
 This is the list of collaborations in which I have been actively involved:
 
 - [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/)
-- [extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV](https://www.sdss.org/)
-- [Euclid](https://sci.esa.int/web/euclid)
-- [Square Kilometer Array (SKA)](https://www.skatelescope.org/)
-- [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/)
-- [UNIT simulations (UNITsims)](http://www.unitsims.org/)
+I am currently one of the two conveners of the Large Scale Structure (LSS) Science Working Group (SWG), in charge of Galaxy Clustering (GC), while we analyse the final dataset (Year-6 or Y6). The LSS-SWG is in charge of the whole BAO Key Project (KP), of providing the GC products for the 3x2pt KP analysis (i.e. the GC for combination with lensing) and of other science projects related to GC such us the study of Primordial Non-Gaussianitties.
 
+- [extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV](https://www.sdss.org/)
+I performed the Halo Occupation Distribution analysis for Emission Line Galaxies and I was involve in the ELG and general cosmology analsysis. I was also involved in the eBOSSxGBT analysis.  
+
+- [Euclid](https://sci.esa.int/web/euclid).
+I am currently one of the leads of the "Simulations for Galaxy Clustering" Work Package. Involved in the Simulations and Galaxy clustering SWG.
+
+- [Square Kilometer Array (SKA)](https://www.skatelescope.org/)
+I studied the viability and methodology of measuring BAO with SKA HI intensity mapping program in presence of observational (foreground and telescop beam) effects. 
+
+- [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/). 
+I generate mock catalogue with PNG. I am also involved in the ELG HOD.
+
+- [UNIT simulations (UNITsims)](http://www.unitsims.org/)
+I participated in the UNITsim-Galaxies project. 
+I have led the PNG-UNITsim project. 
 
 <br>
 _______________________________________________________________________

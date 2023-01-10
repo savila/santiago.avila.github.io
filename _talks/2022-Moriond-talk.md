@@ -9,3 +9,4 @@ location: "La Thuille, Italy"
 ---
 
 [Conference site](https://moriond.in2p3.fr/2022/Cosmology/)
+[Slides](https://moriond.in2p3.fr/2022/Cosmology/transparencies/03_wednesday/02_afternoon/04_avila.pdf)

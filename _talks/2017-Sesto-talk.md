@@ -1,7 +1,7 @@
 ---
 title: "Validation of the Flagship Simulation"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/2017-Sesto-talk.md
 venue: "Getting ready for Science. Euclid Galaxy Clustering under Science Performance Review"
 date: 2017-07-7

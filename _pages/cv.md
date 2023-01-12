@@ -89,5 +89,5 @@ Publication summary
 Talk summary
 -----
  
- I have participated in over 60 conferences/meetings, mostly giving talks, sometimes chairing/organising sessions and, in several occasions, under invitation or as plenary speaker (1-10). I gave seminars at UAM, ICG, JPL/NASA, and Linea-Brazil.
+ I have participated in over 60 conferences/meetings, mostly giving talks, sometimes chairing/organising sessions and, in several occasions, under invitation or as plenary speaker. I gave seminars at UAM, ICG, JPL/NASA, and Linea-Brazil.
 

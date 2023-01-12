@@ -79,14 +79,14 @@ Funding
 
 
 Publication summary
-======
+-----
   * My research has led to 173 peer-reviewed articles with 7000+ citations and h-index of 43 (ADS/NASA; most direct contributions in References at the Memoria), 47, excluding those signed as builder (h=28). 
   * I have 7 first-author papers. 
   * 14 being top-three author (13 published, 1 submitted and having passed DES internal review). 8 of those since 2020.
 
   
 Talk summary
-======
+-----
  
  I have participated in over 60 conferences/meetings, mostly giving talks, sometimes chairing/organising sessions and, in several occasions, under invitation or as plenary speaker (1-10). I gave seminars at UAM, ICG, JPL/NASA, and Linea-Brazil.
 

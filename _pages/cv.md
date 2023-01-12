@@ -56,16 +56,7 @@ Universidad Complutense de Madrid (9/10)
 University of Nottingham (87/100)
   * BSc project supervised by Ed Copeland
   
-[Page under construction]
------
 
-  
-Funding
------
-* MSCA
-* JdlC
-* FPI
-* FPU
 
 Refereeing and Panelist
 -----
@@ -76,18 +67,26 @@ Refereeing and Panelist
   * Ruben Arjona: UAM Sep-2021
   * Martín Rodríguez Monroy: UCM Nov-2021 
 
-<!--
+  
+Funding
+-----
+* Intertalentum Fellowshop: Marie Skłodowska-Curie Actions (MSCA) - COFUND. Labout costs: 115k€. Research budget: 32k€.  
+* Juan de la Cierva Formación - 2017. Granted not taken due to incompatiblities. 
+* FPI-UAM PhD Felloship (: 72k€. 
+* FPI-UAM Research Stay grants. Visit to UWA in 2014 & 2014: 9K€
+* FPU PhD Fellowship - 2012. Granted not taken due to incompatiblities. 
+
+
+
 Publication summary
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * My research has led to 173 peer-reviewed articles with 7000+ citations and h-index of 43 (ADS/NASA; most direct contributions in References at the Memoria), 47, excluding those signed as builder (h=28). 
+  * I have 7 first-author papers. 
+  * 14 being top-three author (13 published, 1 submitted and having passed DES internal review). 8 of those since 2020.
+
   
 Talk summary
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  -->
+ 
+ I have participated in over 60 conferences/meetings, mostly giving talks, sometimes chairing/organising sessions and, in several occasions, under invitation or as plenary speaker (1-10). I gave seminars at UAM, ICG, JPL/NASA, and Linea-Brazil.
 

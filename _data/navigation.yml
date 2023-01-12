@@ -1,14 +1,10 @@
 # main links links
 main:
 
-  - title: "Research"
-    url: /research/
     
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
 
   - title: "Talks & Workshops"
     url: /talks/    
@@ -22,5 +18,12 @@ main:
   - title: "Outreach"
     url: /outreach/
 
+
+ # - title: "Publications"
+ #   url: /publications/
+
+#  - title: "Research"
+#    url: /research/
  # - title: "Blog Posts"
  #  url: /year-archive/
+ 

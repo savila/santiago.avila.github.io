@@ -72,7 +72,7 @@ Funding
 -----
 * Intertalentum Fellowshop: Marie Skłodowska-Curie Actions (MSCA) - COFUND. Labout costs: 115k€. Research budget: 32k€.  
 * Juan de la Cierva Formación - 2017. Granted not taken due to incompatiblities. 
-* FPI-UAM PhD Felloship (: 72k€. 
+* FPI-UAM PhD Felloship: 72k€. 
 * FPI-UAM Research Stay grants. Visit to UWA in 2014 & 2014: 9K€
 * FPU PhD Fellowship - 2012. Granted not taken due to incompatiblities. 
 * PI of 3 successful Red Española de Supercomputacion proposals ([abstracts](https://www.bsc.es/res-intranet/abstracts) 2021-3; 2022-2; 2022-3. Total: 3.7 Million CPU-h). 

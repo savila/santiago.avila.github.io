@@ -9,4 +9,4 @@ location: "Granada, Spain"
 ---
 
 [Conference site](https://workshops.ift.uam-csic.es/PNG2022)
-[Slides](https://cloud.iaa.csic.es/index.php/s/c009b42f78cf8c3f05480a243fbc194b?dir=undefined&openfile=2189435)
+[Slides](https://home.iaa.csic.es/fundcosmo22/)

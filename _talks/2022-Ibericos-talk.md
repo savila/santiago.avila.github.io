@@ -1,6 +1,6 @@
 ---
-title: "Using enhanced simulations to reach accurate cosmology: applications to Primordial Non-Gaussianities
-collection: IberiCOS
+title: "Using enhanced simulations to reach accurate cosmology: applications to Primordial Non-Gaussianities"
+collection: "IberiCOS"
 type: "Conference Talk"
 permalink: /talks/2022-Ibericos-talk.md
 venue: "IberiCOS 2022 – The 16th Iberian Cosmology Meeting"

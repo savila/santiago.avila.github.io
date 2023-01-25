@@ -7,5 +7,5 @@ date: 2022-09-19
 location: "IFT, Madrid, Spain"
 ---
 
-[Conference site](https://home.iaa.csic.es/fundcosmo22/)
+[Conference site](https://workshops.ift.uam-csic.es/PNG2022)
 [Slides](https://workshops.ift.uam-csic.es/files/272/Avila.pdf)

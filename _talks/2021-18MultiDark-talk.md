@@ -2,7 +2,7 @@
 ---
 title: "Baryonic Accoustic Oscillations with HI intensity Mapping"
 type: "contributed talk"
-permalink: /talks/2021-18MultiDark-talk.md
+permalink: /talks/2021-18MultiDark-talk
 venue: "18th MultiDark Meeting"
 date: 2021-10-20
 location: "UNIA, La Rábida, Spain"

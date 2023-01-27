@@ -1,4 +1,3 @@
-
 ---
 title: "Baryonic Accoustic Oscillations with HI intensity Mapping"
 type: "contributed talk"

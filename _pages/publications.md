@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
- % You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  # You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 You can find the full list of Refereed publications in the <u><a href=" 
@@ -19,26 +19,26 @@ You can find the full list of Refereed publications in the <u><a href="
 [Page under construction]
 ====== 
 
-%Here, I help you navigate throught them: 
+#%Here, I help you navigate throught them: 
 
 
-%UNITsim papers
-%------ 
+#%UNITsim papers
+#%------ 
 
-%eBOSS papers
-%------
+#%eBOSS papers
+#%------
 
-%DES-Y3 BAO papers
-%-----
+#%DES-Y3 BAO papers
+#%-----
 
-%Other DES-Y3 papers
-%-----
+#%Other DES-Y3 papers
+#%-----
 
-%DES-Y1 BAO papers
-%-----
+#%DES-Y1 BAO papers
+#%-----
 
-%Intensity Mapping papers
-%-----
+#%Intensity Mapping papers
+#%-----
 
 
 

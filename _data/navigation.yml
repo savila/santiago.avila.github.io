@@ -19,8 +19,8 @@ main:
     url: /outreach/
 
 
- # - title: "Publications"
- #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
 #  - title: "Research"
 #    url: /research/

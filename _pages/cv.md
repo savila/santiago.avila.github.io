@@ -75,13 +75,13 @@ Funding
 * FPI-UAM PhD Felloship: 72k€. 
 * FPI-UAM Research Stay grants. Visit to UWA in 2014 & 2014: 9K€
 * FPU PhD Fellowship - 2012. Granted not taken due to incompatiblities. 
-* PI of 3 successful Red Española de Supercomputacion proposals ([abstracts](https://www.bsc.es/res-intranet/abstracts) 2021-3; 2022-2; 2022-3. Total: 3.7 Million CPU-h). 
+* PI of 3 successful Red Española de Supercomputacion proposals ([abstracts](https://www.bsc.es/res-intranet/abstracts) 2021-3; 2022-2; 2022-3; 2023-1. Total: 4.7 Million CPU-h). 
 
 
 
 Publication summary
 -----
-  * My research has led to 173 peer-reviewed articles with 7000+ citations and h-index of 43 (ADS/NASA)
+  * My research has led to 180 peer-reviewed articles with 10,000+ citations and h-index of 51 (ADS/NASA)
   * 47 papers excluding those signed as builder (h=28). 
   * I have 7 first-author papers. 
   * 14 publications being a top-three author (13 published, 1 submitted and having passed DES internal review). 8 of those since 2020.
@@ -91,4 +91,5 @@ Talk summary
 -----
  
  I have participated in over 60 conferences/meetings, mostly giving talks, sometimes chairing/organising sessions and, in several occasions, under invitation or as plenary speaker. I gave seminars at UAM, ICG, JPL/NASA, and Linea-Brazil.
+ I was the main organiser of the workshop [A cosmic window to fundamental physics: Primordial Non-Gaussianities and beyond](https://workshops.ift.uam-csic.es/PNG2022)
 

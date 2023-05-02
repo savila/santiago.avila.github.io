@@ -26,14 +26,17 @@ PhD Supervision
 *  Oct-2017 to Mar-2021: Supervision of the **PhD of Mike S. Wang** <br>
 <i> Theoretical Considerations in Large-Scale Structure Analsysis </i>. <br>
 University of Portsmouth
-* Mar-2019 to (exp.) Mar-2023: Supervision of the **PhD of Walter Riquelme** <br>
+* Mar-2019 to (exp.) Sep-2023: Supervision of the **PhD of Walter Riquelme** <br>
 <i> Primordial Non-Gaussianities with the Dark Energy Survey </i>. <br>
 Universidad Autónoma de Madrid
-* Nov-2019 to (exp.) Nov-2023: Supervision of the **PhD of Guillermo Reyes** <br>
+* Nov-2019 to (exp.) Mar-2024: Supervision of the **PhD of Guillermo Reyes** <br>
 <i> The halo Occupation Distribution of Euclid H-alpha galaxies </i>. <br>
 Universidad Autónoma de Madrid
 * Mar-2021 to (exp.) Aug-2024: Supervision of the **PhD of Bernhard Vos Ginés** <br>
 <i> Galaxy formation and multi-tracer cosmology </i>. <br>
+Universidad Autónoma de Madrid
+* Mar-2022 to (exp.) Sep-2025: Supervision of the **PhD of Adrián Gutiérrez Adame** <br>
+<i> Response of different cosmic tracers to Primordial Non-Gaussianity: the influence of galaxy formation. </i>. <br>
 Universidad Autónoma de Madrid
 
 MSc Supervision

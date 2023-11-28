@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral researcher working at the Institut de Física d'Altes Energies (IFAE), located at the UAB campus, near Barcelona. I was recently awarded the Ramón y Cajal fellowship (tenure track) and will start working at CIEMAT Madrid in 2024. I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and cosmological simulations. I study and model how galaxies distribute in space and what information we can extract from galaxy surveys in order to better understand our Universe. Appart from research, I also [teach](https://savila.github.io/teaching/) and do [outreach](https://savila.github.io/outreach/). 
+I am a postdoctoral researcher working at the Institut de Física d'Altes Energies (IFAE), located at the UAB campus, near Barcelona. I was recently awarded the Ramón y Cajal fellowship (tenure track) and will start working at CIEMAT, Madrid, in 2024. I am a cosmologist, which means I study the Universe as whole: its origin, evolution, content and physics. My field of expertise is the Large-Scale Structure (LSS) of the Universe and cosmological simulations. I study and model how galaxies distribute in space and what information we can extract from galaxy surveys in order to better understand our Universe. Appart from research, I also [teach](https://savila.github.io/teaching/) and do [outreach](https://savila.github.io/outreach/). 
 
 Research 
 ======

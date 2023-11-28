@@ -12,8 +12,11 @@ redirect_from:
 
 Positions 
 ----
-* **October-2022 to now: Postdoctoral Researcher**
-  * Institut de Física d'Altes Energies.
+* **Starting September-2024: Ramón y Cajal Fellow (tenure track)**
+  * Centro de Investigaciones Energéticas Medio-Ambientales y Tecnológicas (CIEMAT), Madrid.
+
+* **October-2022 to August 2024: Postdoctoral Researcher**
+  * Institut de Física d'Altes Energies (IFAE), Barcelona.
 
 * **June-2021 to September-2022: Postdoctoral Researcher**
   * Universidad Autónoma de Madrid, Spain
